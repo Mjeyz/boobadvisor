@@ -1,4 +1,4 @@
-import 'package:boobadvisor/home_page.dart';
+import 'package:boobadvisor/pages/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
