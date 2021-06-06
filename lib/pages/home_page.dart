@@ -10,7 +10,7 @@ class HomePage extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          child: Text("$name has one to program the boob advisor"),
+          child: Text("$name has one day to program the boob advisor"),
         ),
       ),
       drawer: Drawer(),
